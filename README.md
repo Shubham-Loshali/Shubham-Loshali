@@ -37,8 +37,8 @@
 ### 🤝 Connect with Me
 
 <a href="mailto:harshkhatri6081@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shubham-loshali-909a36339"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+<a href="https://www.linkedin.com/in/shubham-loshali-909a36339"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Discord-1255944442645315774-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 <a href="https://github.com/Shubham-Loshali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
