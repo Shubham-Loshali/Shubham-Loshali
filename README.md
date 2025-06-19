@@ -34,14 +34,13 @@
 
 ---
 
-### 📫 How to reach me
+### 📫 Connect with Me
 
-- 📍 Haldwani, Uttarakhand  
-- 📧 Email: [harshkhatri6081@gmail.com](mailto:harshkhatri6081@gmail.com)  
-- 🌐 Portfolio: *coming soon...*  
-- 🧑‍💻 GitHub: [@Shubham-Loshali](https://github.com/Shubham-Loshali)
+<p align="left">
+  <a href="mailto:harshkhatri6081@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Shubham-Loshali" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
----
 
 ### 🏆 GitHub Stats
 
