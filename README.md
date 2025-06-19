@@ -1,6 +1,3 @@
-## Tetris Graph
-
-![Tetris Graph](https://raw.githubusercontent.com/Shubham-Loshali/Shubham-Loshali/main/tetris_graph.gif)
 
 <!-- HEADER SECTION -->
 <div align="center">
