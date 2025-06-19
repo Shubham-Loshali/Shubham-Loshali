@@ -8,7 +8,7 @@
 </div>
 
 <hr/>
----
+
 
 🚀 Learning by building. Exploring **Python**, **Java**, and **web development**.  
 🧑‍💻 Actively working on personal projects and contributing to open source.
