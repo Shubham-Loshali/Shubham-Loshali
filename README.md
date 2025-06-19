@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shubham Loshali</h1>
-<h3 align="center">A passionate developer from Haldwani, India 🇮🇳</h3>
+<!-- HEADER SECTION -->
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4BC1D2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Loshali" alt="Typing SVG" />
+
+<h3>A passionate developer from Haldwani, India 🇮🇳</h3>
+
+</div>
+
+<hr/>
 ---
 
 🚀 Learning by building. Exploring **Python**, **Java**, and **web development**.  
