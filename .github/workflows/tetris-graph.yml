@@ -1,0 +1,34 @@
+name: Generate Tetris Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual runs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: |
+          pip install matplotlib pillow
+
+      - name: Generate Tetris Graph
+        run: |
+          python generate_tetris.py
+          
+      - name: Commit and Push the Graph
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "actions@github.com"
+          git add tetris_graph.gif
+          git commit -m "Update Tetris Graph"
+          git push
