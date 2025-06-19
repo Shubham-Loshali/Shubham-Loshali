@@ -34,14 +34,12 @@
 
 ---
 
-### 📫 Connect with Me
+### 🤝 Connect with Me
 
-<p align="left">
-  <a href="mailto:harshkhatri6081@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Shubham-Loshali" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<a href="mailto:harshkhatri6081@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Shubham-Loshali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-
+---
 
 ### 🏆 GitHub Stats
 
